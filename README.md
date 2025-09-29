@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Currently pursuing Bachelor's in **Software Engineering** from FAST NUCES, Lahore.  
-- 💻 Practicing **LeetCode** and **Geeks4Geeks** regularly to strengthen data structurees, algorithms & problem-solving.  
+- 💻 Practicing **LeetCode** and **Geeks4Geeks** regularly to strengthen data structures, algorithms & problem-solving.  
 - 🌐 Learning **Frontend Web Development**, aiming for clean, scalable, and aesthetic builds.  
 
 ---
