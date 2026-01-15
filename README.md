@@ -1,7 +1,7 @@
 <!-- Profile README for Saad-2006 -->
 
 <h1 align="center">Hi 👋, I'm Saad</h1>
-<h3 align="center">A Lifelong Learner | Frontend Web Developer | Aspiring Software Engineer</h3>
+<h3 align="center">A Lifelong Learner | Fullstack Web Developer | Aspiring Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saad-2006&label=Profile%20views&color=0e75b6&style=flat" alt="Saad-2006" />
