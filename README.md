@@ -13,7 +13,7 @@
 
 - 🎓 Currently pursuing Bachelor's in **Software Engineering** from FAST NUCES, Lahore.  
 - 💻 Practicing **LeetCode** and **Geeks4Geeks** regularly to strengthen data structures, algorithms & problem-solving.  
-- 🌐 Learning **Frontend Web Development**, aiming for clean, scalable, and aesthetic builds.  
+- 🌐 Learning **Fullstack Web Development**, aiming for clean, scalable, and aesthetic builds.  
 
 ---
 
@@ -29,7 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🗄️ Backend
-🚧 Still figuring out and exploring 🚧
+🚧 Still figuring out and exploring (probably Node JS, express...) 🚧
 
 ### 🔧 Version Control & Tools
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
